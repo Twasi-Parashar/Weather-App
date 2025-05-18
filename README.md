@@ -2,7 +2,7 @@
 
 This is a simple weather application that allows users to check the current weather conditions of any city. By entering the city name, users can get real-time data about the temperature, humidity, wind speed, and weather description, along with a weather icon representing the conditions.
 
-The link is -----------
+The link is -----------  https://twasi-parashar.github.io/Weather-App/
 
 ## Features
 
@@ -19,20 +19,5 @@ The link is -----------
 - **JavaScript**: For fetching real-time weather data from the OpenWeatherMap API.
 - **OpenWeatherMap API**: Provides real-time weather data.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/weather-app.git
-    ```
-
-2. Go into the project folder:
-    ```bash
-    cd weather-app
-    ```
-
-3. Open the `index.html` file in your browser to see the app in action.
 
 
